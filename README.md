@@ -1,4 +1,4 @@
-### Minykeong👋
+### Minkyeong👋
 - 학부생 팀 프로젝트, 개인 알고리즘 스터디등이 존재합니다.
 
 ![Gangriming's GitHub stats](https://github-readme-stats.vercel.app/api?username=gangriming&show_icons=true&include_all_commits=true&theme=tokyonight)
